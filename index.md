@@ -4,15 +4,15 @@ layout: homepage
 
 <h1 id="about-me"></h1>
 
-<h2 style="margin: 60px 0px 10px;">Short Bio</h2>
+<h2 style="margin: 60px 0px 10px;">About Me</h2>
 
-I am currently a Ph.D. candidate at [Maastricht university](https://www.spin-ion.com/), working under the mentorship of Dr. [Leto Peel](https://piratepeel.github.io/). My research involves magnetoelectric ("ME") materials for energy-efficient information technology and "ME" materials for data security in information technology using Multiferroics/Magneto-ionics/Surface charging, with a special focus on the boosting magneto-ionic effect using ion irradiation and implantation.
+I am currently a Ph.D. candidate at [Maastricht university](https://www.spin-ion.com/), working under the mentorship of Dr. [Leto Peel](https://piratepeel.github.io/) and [Fariba Karimi](https://www.csh.ac.at/researcher/fariba-karimi/). My research lays in applying statistical inference and network analysis to large-scale gender-annotated bibliometric datasets to investigate gender mixing and its impact on dropout, which could develop agent-based models of enrollment, promotion, and dropout in academia and use these to investigate mitigation strategies.
+
 ## Research Interest:
-- **Ion-material Simulation:** SRIM, iradina, IMSIL, CORETO, TRIDYN, MARLOWE, RustBCA
-- **Machine Learning:** fairness AI, penalization and augmentation methods
-- **E-field controlled magnetization** VCMA, Strain-mediated ME (Magnetoelectric) Effects, Straintronic, iontronic, E-filed induced spin reorientation, SOT.
-- **Micro-, Nanofabrication**
-- **Neuromorphic Computing** Neuromorphic Sensing and Perception, Hybrid Computing Systems, Brain-Inspired Robotics
+- **Network Inequality:** ego network, gender differences
+- **Local Assortativity:** 
+
+ Brain-Inspired Robotics
 
 
 {% include_relative _includes/projects.md %}
