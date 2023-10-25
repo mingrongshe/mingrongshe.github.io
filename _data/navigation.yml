@@ -19,5 +19,5 @@ main:
   - title: "Blogs"
     url: ./blog/
 
-  - title: "Bio"
+  - title: "About Me"
     url: ./#about-me
