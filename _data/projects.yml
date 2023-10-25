@@ -6,6 +6,6 @@ main:
     # pdf: ./assets/files/AutoVA.pdf
     web: 
     image: ./assets/img/Likelihood.png
-    notes: Non-Open Source
+    # notes: Non-Open Source
 
 
