@@ -5,7 +5,7 @@ main:
     project: We examine gender differences in collaboration behaviour and academic career progression in physics. We use coauthorship ego networks to capture collaborative behaviour and use the likelihood and time to become a principal investigator (PI) and the length of an author's career to measure career progression.
     # pdf: ./assets/files/AutoVA.pdf
     web: 
-    image: ./assets/img/Likelihood.png
+    image: ./assets/img/Likelihood.jpg
     notes: Non-Open Source
 
 
