@@ -12,8 +12,6 @@ I am currently a Ph.D. candidate at [Maastricht university](https://www.spin-ion
 - **Network Inequality:** ego network, gender differences
 - **Local Assortativity:** 
 
- Brain-Inspired Robotics
-
 
 {% include_relative _includes/projects.md %}
 
