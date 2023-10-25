@@ -14,8 +14,7 @@ address_link: https://www.google.nl/maps/place/School+of+Business+and+Economics/
 # Search Engine Optimization (SEO)
 keywords: mingrong she
 canonical: https://minimal-light-theme.yliu.me/
-description: Song Chen is a Ph.D. canditate at Spin-Ion Technologies and Université Paris-Saclay. His research lies at using magneto-ionics to develop new concepts for magnetic data storage, spintronic devices and magnonics, always with the aim of improving energy efficiency with respect to currently available technologies - with a special focus on the boosting magneto-ionic effect using ion irradiation & ion implantation.
-
+description: Mingrong is a PhD candidate at the Department of Data Analytics and Digitalisation (School of Business and Economics) of Maastricht University since October 2021.
 # The option is used to enable the Johns Hopkins template.
 enable_hopkins_logo: false
 
@@ -31,9 +30,9 @@ twitter:
 # researchgate: https://www.researchgate.net/profile/Song-Chen-60
 
 # Images 
-avatar: ./assets/img/autova.JPG
+avatar: ./assets/img/avatar.JPG
 favicon: ./assets/img/favicon.png
-favicon_dark: ./assets/img/favicon-dark.png
+favicon_dark: ./assets/img/favicon.png
 
 # Footnotes
 # Footnote
@@ -42,14 +41,7 @@ enable_footnote: false
 #footnote: Feel free to use my website's source code.
 #footnote_link: https://github.com/yaoyao-liu/minimal-light
 
-# Analytics
-# Please remove the following lines about analytics services if you fork my project. 
-# Otherwise, the analytics information of your website will be recorded to my ClustrMaps accounts.
-clustrmaps_id: ${{ secrets.CLUSTRMAPS_ID }}
 
-# Google Analytics ID
-# Please remove this if you don't use Google Analytics
-google_analytics: ${{ secrets.GOOGLE_SCHOLAR_ID }}
 
 # Use this project as a remote theme for GitHub Pages
 # See the guide here: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll
