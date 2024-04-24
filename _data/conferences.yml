@@ -14,5 +14,5 @@ main:
     conference: International School and Conference on Network Science 
     # pdf: ./assets/files/JEMS2023_Song.pdf
     web: https://netsci2023.wixsite.com/netsci2023
-    image: ./assets/files/NetSci2023.jpg
+    image: ./assets/files/CompleNet_logo.png
     
