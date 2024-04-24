@@ -7,4 +7,12 @@ main:
     # pdf: ./assets/files/JEMS2023_Song.pdf
     web: https://netsci2023.wixsite.com/netsci2023
     image: ./assets/files/NetSci2023.jpg
+
+  - title: Gender differences in collaboration and career progression in physics
+    authors: Mingrong She, Jan Bachmann, Fariba Karimi, Leto Peel
+    conference_short: NetSci2023
+    conference: International School and Conference on Network Science 
+    # pdf: ./assets/files/JEMS2023_Song.pdf
+    web: https://netsci2023.wixsite.com/netsci2023
+    image: ./assets/files/NetSci2023.jpg
     
