@@ -10,9 +10,9 @@ main:
 
   - title: Gender differences in collaboration and career progression in physics
     authors: Mingrong She, Jan Bachmann, Fariba Karimi, Leto Peel
-    conference_short: NetSci2023
-    conference: International School and Conference on Network Science 
+    conference_short: CompleNet2024
+    conference: 15th International Conference on Complex Networks
     # pdf: ./assets/files/JEMS2023_Song.pdf
-    web: https://netsci2023.wixsite.com/netsci2023
+    web: https://complenet.weebly.com/
     image: ./assets/files/CompleNet_logo.png
     
